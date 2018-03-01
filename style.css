@@ -5,3 +5,7 @@ text-align: center;
 .contact-info {
 text-align: center;
 }
+
+.thumbnail {
+  justify-content: center;
+}
