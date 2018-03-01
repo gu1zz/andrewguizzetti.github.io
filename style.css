@@ -8,8 +8,9 @@ text-align: center;
 
 .thumbnail {
   justify-content: center;
-  width: 200px;
-  height: 200px;
+  width: 20px;
+  height: 20px;
+  display: inline;
 }
 
 .thumbnail img {
