@@ -2,7 +2,6 @@ body{
   font-family: verdana, helvetica;
   background-image: url(http://www.solidbackgrounds.com/images/1920x1080/1920x1080-blue-gray-solid-color-background.jpg);
   padding-left: 20px;
-  color: darkgray;
 }
 
 h1 {
@@ -21,14 +20,15 @@ text-align: center;
 .personal-statement img { 
   transform: rotateY(180deg);
   position: inline;
-  padding: 0
+  margin: 0
 }
 
 .personal-statement {
-  padding: 0;
+  margin: 0;
   font-size: 20px;
   font-style: italic;
   text-shadow: 2px 0px 0px #000, 3px 2px 0px rgba(0,0,0,0.15);
   text-align: center
+  color: darkgray;
 }
   
