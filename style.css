@@ -14,14 +14,18 @@ text-align: center;
 
 .thumbnail {
   justify-content: center;
-  width: 15px;
-  height: 15px;
+  width: 10px;
+  height: 10px;
 }
 
 .thumbnail img {
   width: 10%;
   height: auto;
+  justify-content: inline;
 }
 
-.experience {
+.resume {
   font-family: verdana, helvetica;
+
+.summary-of-qualifications {
+  
