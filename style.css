@@ -17,10 +17,11 @@ text-align: center;
   position: inline;
 }
 
-.contact-info img { 
+.personal-statement img { 
   transform: rotateY(180deg);
   margin: 2rem; 
   justify: right;
+  position: inline;
 }
 
 .personal-statement {
