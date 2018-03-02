@@ -14,14 +14,10 @@ text-align: center;
 text-align: center;
   font-family: verdana, helvetica;
   margin:0;
+  position: inline;
 }
 
-
-.summary-of-qualifications {
-position: inline;
-}
-
-.summary-of-qualifications img { 
+.contact-info img { 
   transform: rotateY(180deg);
   margin: 2rem; 
 }
