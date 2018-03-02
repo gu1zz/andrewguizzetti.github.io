@@ -24,9 +24,10 @@ text-align: center;
 }
 
 .personal-statement {
+  margin: 0;
   font-size: 20px;
   font-style: italic;
-  text-shadow: 2px 0px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+  text-shadow: 2px 0px 0px #000, 3px 2px 0px rgba(0,0,0,0.15);
   text-align: center
 }
   
