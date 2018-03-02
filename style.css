@@ -8,13 +8,12 @@ text-align: center;
 
 .thumbnail {
   justify-content: center;
-  width: 25px;
-  height: 25px;
+  width: 15px;
+  height: 15px;
   display: inline;
 }
 
 .thumbnail img {
   width: 10%;
   height: auto;
-  justify-content: center;
 }
