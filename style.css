@@ -17,8 +17,7 @@ text-align: center;
 }
 
 img {
- display: inline;
-  position: relative;
+ justify-content: right;
 }
 
 .resume {
