@@ -7,11 +7,13 @@ body{
 h1 {
 text-align: center;
   font-family: verdana, helvetica;
+  margin: 0;
 }
 
 .contact-info {
 text-align: center;
   font-family: verdana, helvetica;
+  margin:0;
 }
 
 .thumbnail {
