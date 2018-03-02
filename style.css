@@ -16,8 +16,7 @@ text-align: center;
 }
 
 
-.summary-of-qualifications img {
-  position: absolute;  
+.summary-of-qualifications img { 
   top: 0px;
     right: 0px;
   transform: rotateY(180deg);
