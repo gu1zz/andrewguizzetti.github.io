@@ -20,6 +20,7 @@ text-align: center;
 .contact-info img { 
   transform: rotateY(180deg);
   margin: 2rem; 
+  justify: right;
 }
 
 .personal-statement {
