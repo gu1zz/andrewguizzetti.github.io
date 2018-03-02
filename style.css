@@ -14,7 +14,11 @@ text-align: center;
   margin:0;
 }
 
-img {
+.summary-of-qualifications{
+  display: inline;
+}
+
+.summary-of-qualifications img {
  justify-content: right;
 }
 
