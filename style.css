@@ -1,6 +1,7 @@
 body{
   font-family: verdana, helvetica;
   background-image: url(https://image.freepik.com/free-photo/weathered-concrete-background_1149-1289.jpg);
+  padding-left: 20px
 }
 
 h1 {
@@ -23,11 +24,6 @@ position: inline;
 .summary-of-qualifications img { 
   transform: rotateY(180deg);
   margin: 2rem; 
-}
-
-.resume {
-  font-family: verdana, helvetica;
-  padding-left: 20px;
 }
 
 .personal-statement {
