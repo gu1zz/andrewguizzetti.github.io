@@ -6,13 +6,11 @@ body{
 
 h1 {
 text-align: center;
-  font-family: verdana, helvetica;
   margin: 0;
 }
 
 .contact-info {
 text-align: center;
-  font-family: verdana, helvetica;
   margin:0;
   position: inline;
 }
@@ -20,11 +18,9 @@ text-align: center;
 .personal-statement img { 
   transform: rotateY(180deg);
   position: inline;
-  margin: 0
 }
 
 .personal-statement {
-  margin: 0;
   font-size: 20px;
   font-style: italic;
   text-align: center;
