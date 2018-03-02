@@ -32,7 +32,8 @@ text-align: center;
   font-size: 20px;
   font-style: italic;
   text-align: center;
-  font-color: darkgray;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 ul li{
