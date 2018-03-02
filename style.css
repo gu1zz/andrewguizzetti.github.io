@@ -1,6 +1,6 @@
 body{
   font-family: verdana, helvetica;
-  background-image: url(https://cdn.wallpapersafari.com/54/90/RAMcBd.jpg);
+  background-image: url(http://www.solidbackgrounds.com/images/1920x1080/1920x1080-blue-gray-solid-color-background.jpg);
   padding-left: 20px
 }
 
@@ -20,6 +20,7 @@ text-align: center;
 .personal-statement img { 
   transform: rotateY(180deg);
   position: inline;
+  margin:0
 }
 
 .personal-statement {
