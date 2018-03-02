@@ -14,12 +14,8 @@ text-align: center;
   margin:0;
 }
 
-.summary-of-qualifications{
+.summary-of-qualifications {
   display: inline;
-}
-
-.summary-of-qualifications img {
- justify-content: right;
 }
 
 .resume {
