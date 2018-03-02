@@ -20,7 +20,7 @@ text-align: center;
 .personal-statement img { 
   transform: rotateY(180deg);
   position: inline;
-  margin:0
+  margin: -10
 }
 
 .personal-statement {
