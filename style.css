@@ -1,6 +1,9 @@
 body{
   background-image:
     url("https://goo.gl/images/qdwwT6");
+  background-size: cover;
+  font-family: verdana, helvetica;
+}
 
 h1 {
 text-align: center;
@@ -26,6 +29,4 @@ text-align: center;
 
 .resume {
   font-family: verdana, helvetica;
-
-.summary-of-qualifications {
   
