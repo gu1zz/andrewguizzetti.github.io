@@ -9,6 +9,10 @@ text-align: center;
   margin: 0;
 }
 
+h4 {
+    border-bottom: double;
+}
+
 .contact-info {
 text-align: center;
   margin:0;
