@@ -22,13 +22,13 @@ img {
     height: auto;
 }
 
-.thumbnail {
+.nav {
   justify-content: center;
   width: 10px;
   height: 10px;
 }
 
-.thumbnail img {
+.nav img {
   width: 10%;
   height: auto;
   justify-content: inline;
